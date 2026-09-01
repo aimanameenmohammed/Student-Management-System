@@ -16,6 +16,7 @@
 [✨ Key Features](#-key-features) •
 [📸 Screenshot](#-screenshot) •
 [🛠️ Architecture & Highlights](#️-architecture--highlights) •
+[📅 Development Timeline](#-development-timeline) •
 [⚙️ System Capabilities](#️-system-capabilities) •
 [🚀 Getting Started](#-getting-started) •
 [📞 Connect With Me](#-connect-with-me)
@@ -57,6 +58,19 @@ The **Student Management System** is a desktop administrative tool designed to s
 * **State Synchronization:** Synchronizes user selections across the data grid/list view and the ID Card component seamlessly.
 * **Separation of Concerns:** Organizes UI events, data handling, and presentation logic into clean, structured methods following C# best practices.
 * **Responsive Control Management:** Handles dynamic WinForms layout adjustments to support flexible list view mode switches without UI flickering.
+---
+
+
+## 📅 Development Timeline
+
+| Milestone | Date |
+| :--- | :--- |
+| 🚀 **Started** | March 7, 2026 |
+| ✅ **Completed** | March 9, 2026 |
+| ⏱️ **Development Period** | 2 Days |
+
+
+> **Note:** These dates represent the actual development period of the project, not the date it was uploaded to GitHub.
 
 ---
 
